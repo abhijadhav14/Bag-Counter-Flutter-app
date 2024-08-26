@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-rtsp-stream": "^0.0.9",
+    "socket.io": "^4.6.1"
+  }
+}
